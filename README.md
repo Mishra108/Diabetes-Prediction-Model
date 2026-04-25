@@ -16,7 +16,7 @@ A simple Machine Learning web app that predicts whether a person is diabetic or 
 
 ## 🚀 Live Demo
 
-(https://mishra108-diabetes-prediction-model-app-lipek0.streamlit.app/)
+https://mishra108-diabetes-prediction-model-app-lipek0.streamlit.app/
 
 ---
 
