@@ -7,7 +7,7 @@ model = joblib.load('xgb_diabetes_model.pkl')
 scaler = joblib.load('diabetes_scaler.pkl')
 expected_column = joblib.load('diabetes_columns.pkl')
 
-st.title("Disease Prediction App")
+st.title("Diabates Prediction App")
 
 # User inputs
 pregnancies = int(st.number_input("Pregnancies", min_value=0, step=1))
